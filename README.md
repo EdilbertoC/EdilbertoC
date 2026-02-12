@@ -23,12 +23,3 @@ Atualmente trabalhando com o ecossistema .NET e aprofundando conhecimentos em Co
 </div>
 
 <br>
-
-### 📊 Métricas
-
-<div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdilbertoC&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdilbertoC&layout=compact&theme=graywhite&hide_border=true"/>
-  </a>
-</div>
